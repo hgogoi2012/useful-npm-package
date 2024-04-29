@@ -17,12 +17,16 @@
 #### [(https://dndkit.com) A lightweight, modular, performant, accessible and extensible drag & drop toolkit for React.]
 #### [(https://floating-ui.com) A JavaScript/React library to position floating elements and create interactions for them.)
 #### slatejs /editorjs
+#### [(agendajs.com)] Lightweight job scheduling for Node.js
+#### [(driver.js)] cool looking guided app tour
+
+
 
 
 ### [UI LIbrary /Components] (#ui)
 
 #### [(https://ui.aceternity.com/) Amazing Tailwind UI Library]
-
+#### [(syntaxui.com) Cool Tailwind JSX component ]
 
 
 
